@@ -13,6 +13,7 @@ require "ebay_enterprise_affiliate_network/version"
 # Resources
 require "ebay_enterprise_affiliate_network/api_resource"
 require "ebay_enterprise_affiliate_network/publisher"
+require "ebay_enterprise_affiliate_network/advertiser"
 require "ebay_enterprise_affiliate_network/api_response"
 
 # Errors
